@@ -46,13 +46,12 @@
             $atores = $arrayFilme['Actors'];
             $enredo = $arrayFilme['Plot'];
             $cartaz = $arrayFilme['Poster'];
-            $notaIMDB = $arrayFilme['Ratings'][0]['Source'];
             $valorIMDB = $arrayFilme['Ratings'][0]['Value'];
             $notaRT = $arrayFilme['Ratings'][1]['Source'];
             $valorRT = $arrayFilme['Ratings'][1]['Value'];
 
             echo "\n\n Filme: $titulo \n Lançamento: $lancamento \n Duração: $duracao \n" .
-            " Diretor: $diretor\n $notaIMDB: $valorIMDB \n $notaRT: $valorRT \n\n $enredo \n\n ";
+            " Diretor: $diretor\n IMDb: $valorIMDB \n $notaRT: $valorRT \n\n $enredo \n\n ";
 
             echo "\n $url\n";
         }
