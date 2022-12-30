@@ -1,0 +1,169 @@
+		                                                                                    FILMES SERIES ANIMES LIVROS MANGAS
+
+
+                                                                                                          NOVIDADES
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+					ranking por nota																																					ranking por popularidade
+
+					  NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS
+					  NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS
+					  NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS
+					  NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS
+					  NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS - NOTICIAS
+
+					MELHORES DO ANO (CAROSSEL)
+                        MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO
+                        MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO
+                        MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO
+                        MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO
+                        MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO - MELHORES DO ANO
+
+                    CLASSICOS (CAROSSEL)
+                    CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS
+                    CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS
+                    CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS
+                    CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS
+                    CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS - CLASSICOS
+
+                            VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX
+                            VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX
+                            VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX
+                            VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX
+                            VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX - VIDEOS TRAILER TIPO NETFLIX
+
+
+
+
+
+                            Filmes
+                                Titulo X
+                                lançamento
+                                atores{}
+                                diretores{}
+                                roteiristas{}
+                                trilha sonora{}
+                                genero{}
+                                descrição{}
+                                nota{}
+                                personagens{}
+                                premiaçoes{}
+                                faixa etaria{}
+
+                            Series
+                                Titulo X
+                                lançamento
+                                final
+                                episodios{}
+                                atores{}
+                                diretores{}
+                                roteiristas{}
+                                trilha sonora{}
+                                genero{}
+                                descrição{}
+                                nota{quantidade de votos{}}
+                                personagens{}
+                                premiaçoes{}
+                                faixa etaria{}
+
+                            Animes
+                                Titulo X
+                                lançamento
+                                final
+                                episodios{}
+                                personagens{dubladores{}}
+                                diretores{}
+                                animadores{}
+                                roteiristas{}
+                                trilha sonora{}
+                                genero{}
+                                descrição{}
+                                nota{}
+                                premiaçoes{}
+                                faixa etaria{}
+
+                            Mangás
+                                Titulo X
+                                lançamento
+                                final
+                                episodios{}
+                                personagens{dubladores{}}
+                                diretores{}
+                                animadores{}
+                                roteiristas{}
+                                trilha sonora{}
+                                genero{}
+                                descrição{}
+                                nota{}
+                                premiaçoes{}
+                                faixa etaria{}
+
+                            Livros
+                                Titulo
+                                lançamento
+                                volumes{}
+                                Autores{}
+                                personagens{}
+                                genero{}
+                                descrição{}
+                                nota{}
+                                premiaçoes{}
+                                faixa etaria{}
+
+    Diagrama de classes:
+    https://online.visual-paradigm.com/w/irvceguz/diagrams/?lightbox=1&highlight=0000ff&edit=https%3A%2F%2Fonline.visual-paradigm.com%2Fw%2Firvceguz%2Fdiagrams%2F%23diagram%3Aworkspace%3Dirvceguz%26proj%3D0%26id%3D1&editBlankUrl=https%3A%2F%2Fonline.visual-paradigm.com%2Fapp%2Fdiagrams%2F%23diagram%3Aproj%3D0%26vpov%3D16.3%26vpob%3D20220410%26client%3D1%26edit%3D_blank&layers=1&nav=1&title=Acervo&vpov=16.3&vpob=20220410#R3cU2FsdzGVkX1Z%2BsTv%2FVsZiTQIx7AZH4FRGcttar38G69wQgMpwfM%3DI8wwsmp5eAeYKdgesoxMLUoxNwPcJ2BN7Ap7kTq1nIP0qLz2yMgfskogIvhPmG7lpRLNr2qyY5C8RXbBKy2Er3MDj6RgFgtJ7O%2FA25U461GOvkB3o7dBPEPqn2%2FRMj5VYpJzqN4QiNCCiTorWFa7%2B3Z1afCEIWyLKB%2F6HkJ%2Flyzj7%2FZ5sEPd7fuiSjwmiZRe6jK158NYGagtmBPc0MtUTZp13qdqIt91ILWg8EXbO%2F0wHU0ay7GqAkydjqWgDWeILmc049kLiJuh4mcuJqD0lJGhvLsWUtlpAk8EV1RHa9AuVRR1weUpXPmqRuUcubdfT3ovDMy92Ygwg3F9JWOmceTqPdXp2ZJEJ5UG4j9%2Bs32wUEJFm3r748DFlt5FX7v2QkxRVQ%2BRyrB5wd4eWxi7taUhK9nIilSLsRV2uTH57EYbxS29S2kUQD67tigLiJbZ9qm1p4UrTcLMNRCXJFTu1PP3%2BJnSPSbaEkWPUHS%2F91Yc48%2Bzv7HthAyMTlQRf4P4i98pJ69l1tTHKfiLnJo4dERHz4JmK3qoshW%2FtAjHiQGm9DrIoYv556lkQe6HatE%2BdkzoK85xnI7FEem1YNS91DbG3xFJ81maO0Pq19jOgxlwOoVAXblotYuz%2B%2Bb8NPo5KRZsJudqb71DSoY4Tjo86RPWLRd8ekhfQHTs4xc0JXCKiqMvxSkbPwjLD2dYM%2B054tPkiOq6aww2UIHuENrAPDipDTifG0NptEs73WL6rZ10g4xPnyyWe1IKIIKYSAj2XsbxFWv4M0UlT%2BILB0iWJ9UpKhK7hvkRqFKJDI8u7j%2F41bzQOEIY2VlazArLDZE4d2nOb153681O8Xf0trO3CQ40j1XxSKM0iZ%2FkGB9fWAa3ZV3yUCKP4hZsYevg%2FZF3rUypa%2Be47fnsBS7EyJ8u9EmGzegwIQBQhhvpvqD2oBAFRqeeGnTfniRtoXCkuphFfEasEBTnhuuDX%2B9OB0eVD76fZRsLoSkJi2h7PzCoZJQ%2Bh0PWJDApk4H92TA08DPq77XKWrpSE3V6jmdrk89sn2wwyIboeE0g2lJvA9fYtryQlBbj81t%2FJVLWD4n89aNJAhS9n0ACnAEzcX%2FIYuGm%2F8vf9yj%2FTrie3RazlLIZVMyfPcS1X%2Bh6LmIgODi5Hs74CKI4859%2FkNc%2B4pNbNXSD8SAOy6sljdJS%2BfGIZjhSC%2ByJ0cvoQbSvExRagiZhDmYj9Uv6PjCoVztFN7JGO3ldzflMoC3HX%2BXK7605EZEeUwewVIWc%2FTco5UgOp1lRluv8Xk8uv5RcGDiz1W3e4arLUpUMmqWZz9hL8PTNA3oP1%2FVqWhpUVJhNNevuzZLr5g99pkckUE%2BESTJQGO8mYOf7YWxruewO0BJJcwkuf0ZyDZmvy97mIM0FebX2ZxJeCTqUWBnZNJ%2F24qkpqrL4OM8aV0a21JbPpRbsKaUfMPhKQSUBAER3GvGr1qOF%2BDR%2BwEU%2BWxujWTU%2F1KRyLLD8owhyPnKqmcw1cV1AAi2OWL5YwKKJVFXqiq2EmKswMDJGeHu1mG1cfhttPd4PMs5cUED8wqrXpdRyNG62DuoRlUcvawwwbyR1RAUOKH64NQmlD9JUn9iHupV6oVyWS2X1HtlHKwX5EmriVYGI7VoWFEJ7G60orDHiZ1iVN9zk%2BfII2iz67WqTzrzrvK6jWxi%2FXxXMiYbitqJYFPJlMNUU6n4O8XkseJ5hDLMQ7NXeZx8AZUumE1H3ck5HyOAv21i8zvqlckDP61mCeu9geGV1%2FFwzgg1BwRw3zLmSYV1T7pZLz2Yt8iyFZLDp%2FaAMct%2B0W%2FiCGELcBueEhVix%2BTV8qHmwkGM27B6sdGIQ8lvjrgOhqR8H2JbGz0Fy%2FHflV%2FQyXnbSGfiJ0gwDpohMG7MAK1R4cOFDy9yFbfBIIzaYlMju4Y%2FrTpg6Lt2odgrCG0ZGd9QOcLAU6%2BhuM72OYjyNpymlv3ADWDQiyzp1gYzK3X1LCyx5D3NqubGQpen5YTQg5Zk8HVtWk5VQw69rnHYtCQUzFYOQZIDQ6%2FaTgIO%2B01J3sZzx8Woq%2FQfr51c4MX78kWdih4hAVKFdvEG4gQlBFBO6i%2FWi3aWf3Kv%2BmN4sCEmIXCx6GC%2FAnHtXv7u%2Bn0ZRgxJk6uXfVY5Kx%2FAlQwkfAmDqHJlYSZp14gCQRE6OWlfTfGZsv3afznvrKLMeiMQ1TpJ9weivneIV9XbgoknglId6Ms49KTx%2BJyavkJQzFFUs1xJX3Oxmyd3zeaaXxEJCoE7jtgcNG7O9HbLeG149sQIDkBkh7mRA1b7E5h5CaeQ80M7TVXRse0bXizTzS5WTR2RSnFtYqWk0NhLq1YPlnDTXmEWbyKY4yGo47YzWWeftTBO6riSLD%2FfOT6OoTuCHBgUHDYRm6gXegl9nm0YuOVVMIc4kVOnepo26NwoWtDxgw0ZNw9dgNEGL0pfjvb5%2Bjo%2F1XNdGwglKmDZ54QENDZcPrU5EaZTtj%2FwbM6FlJpMJJ0JUWWQVd2GjXsMK6VhEQ30A%2FLskJNX5XLq9Bz0CP%2FnzmJJPRntIF1eHbHcljK1FhsTV4lc3izZW0cZnE3bMcz6doKqNX%2BS4kDQMZf%2B0EJsh2yaVxLIpVVPj%2F2N5hSINzHgCEq21kGMZ%2BnpUqjD3jFTKFr7xmrCYCXJcUXqI0npLh%2FaFB%2FpfK82o6hh5YjCnWwvKQYjNAyHBpM2Y8%2Bk0J7PzKSvIoBVU5Q6P%2BZcoRXAYLjtMJXWQRfzPUCkO2fFLAbWqUm5fDQdVPDpHThXiok7VH1FnOK%2BS8bftZT684X7Vn%2FFxM8GK7XV6SW8k%2FbdipIjL4VnFBeEkZEwOOiK0F6VIeZeH53dZsSfXNnxdJUgTzP9basKGnLiPASD9N0aHG8ej57LEjB%2FIP%2F5E2c%2FQYiwHNvdSaswjFccFRPLdNvhdbU3nnYU8IwJ56a90NynpabSUvMkgD561jU2Nb6CQftIansGCZBruAmSqn%2FeSi%2BWRonL75iYhMIBQPBX0SHy3qQpMTvXTLAcEYgpRP1QaQzohmpggOqjiRF%2FlGPm55zh3B8YilNOgkOG3QbU1sgsHHX4EvZ%2Ftfv7LY6Lt0uVDKSsS7kijxNNWeW3ry9Pquu7%2FLW2PkmdSwHNtN8zaISJ1PoLuwlQ1sIELlR3ulWkn6OzK3B24q9YLsGqGbGU3MT3V57ibXQaH9HN81A15idBDDv1hJicmv6t%2BK5oURMdTX2SCKkxzLEwAm18k%2FBdfifNFpjGwES9tB8IBRIJUVUpCozOzzxMmqAz%2BDToZTub0p0VOZRXuJHokk%2FRzY4v6RoPyiI7ydLin%2BlrfXPjaz5lI5Ikk9blAMvWzzF018smieqIxTihlXk31nNLvpbpoy1tQgIommZDX06ZFqxbgBIlxU0tRv4r%2BAEbNqa5lumymFIhTk7vwgxgilji7ikxJT5S9SYzNbSKzQeIPEyb0tlMf95C%2Foyq9ZMV0dM2qFKIlD1BzgD6Zi9PYQQWs3W1vBtCX%2B6A3ueIKcazLSgoLrZeGmZD4i%2Bk0lp%2FAEbQL0n8fd0t7OpgVo497t03qH1qI6LSN1kpkJV7CLo5Hqaetr6pShHXJczZsu3%2BQaQbY%2FR5OAkTmBzHHejINUWlqoy3Xc9%2BRLUub2X3uCtsXZEVLbqSNiT1q8sh9MhFBbbAoVVEsxWTiY9UOk%2B%2BHTTBSS2CfUQQvW%2FKzEFzHi4C8UaTiFU94Gbf2XqA32ZE1CVdF7ueUKubAiABUVWRKy2DG64cCPF0D6K0Tc2dj%2BfWzgBpoHUzjGFj3GAJzg%2FRLk00uaC2L4L96ldPMVWwSXpwG%2F6C%2BEgA1BBQrszSWBYJZDRQGlaq6lMwIAj3lqvG341VPaCpMWaT2RxbCUdRhk5zruH%2B1uGZ3NM%2FxmceFuW7cFcr%2F3JzNSE8wsaFGGGReLpp7FquvV24P4LvpP3y%2Bu2YKIH7NGCAlrcTff%2BQYoBTyQjiBARiGNg0lgHe5AhRxbigZPjVHaCeiYL%2Bem9bvlHoyxX7YwPMPbG93Hj85mnbJ8ZzPOmiZrVx5ndkxXEd4MCJ75I%2FvVl9isBXLSeb%2FHc8dafmU%2BbDZunYovSN51vGBxshTrFp8GZp%2F%2Bssb3oE21rDWYQlg%2Fh8m38hygU7kl%2BLsshEYQVY%2BlQ5elZu9HoLTNF6kCDvhKNJ1J2vPcQSLgTwXNexJ9BF%2FUSis%2FJt3iS2m%2FEuQAKIzVB4DUhPK6mTUnH%2BnS7YRJv2FeHAXRtufMR6HRKhmEq5gCG7NigvVjLDArTBNme%2BEq%2BTUxzZ3GrA4fbcx4n2gM71AcMpQUpgO5LL9gHBgBQZHQBhs4bMFpKADlNkzBFnV%2B3VKYc6D49F7RSlZeQ59KAvDtkpvjqHE40j8KjawBRbuZ0p%2FpWOGHypjDU%2Fim8mXO1elOMDKEvbgvjACXJUkcxWqaEVa52SKsHtH3ZP%2BH1R8f%2BPDAD1wRJt2ZrjlME7RPaKqn0qFhJLZQW2YqgZc25W6yAdYaq%2BEwCS%2BQJX75j0btrOcKB96k9Nm5XMwhU7ZxTf0YaaBzOwteAU%2BaSfOjDdstDOX0Y5DJVNMhSuFFIuPm74AD%2FS2JUu%2FNFPbAd7urp%2Bo7QXTrgECfveYkAHlm8cy4GqNlkO6UsTZP%2BTcPqxeXgoR9sIADD55sCB9eS%2FnCU74GE5gAP6QM2pUoAmvg31jDvErdOhwK7OmrAaqA%2FaIGe%2Bib1F8Wzvdk%2BRiRbaEyKKBn8Goty%2BWjuOHX4ZaSOU%2BY0voxl05kfPJpsgMJR2huXJGg1SLXeYi%2B3NFHuU%2Fs1UAPJ3Zjpb%2F7H2D%2Bszl%2B7y4CbQaCbMofNb63nXEMwIb64xIGofEFPUZzufveMDjobJjX1JSpxSO5C4tfCnHDpsTKAEnjVjlZDise04vyhlUjFtMVYgLJ62tCjYUi1Zg8ih%2FSSNzVghQD7F8S4z3RoUVFf053uxW8vtpRpE6Jv2aZdbo9YJMRdNbhHlQpTcOaVIalhVy70RY3QnZAu%2B8Kn4IOEJ7lDWktVjNMvFh3YN9rai1v11nVo125
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
