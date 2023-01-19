@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f96ebda1-f97b-4be5-ae0a-41f0d84c72d3" name="Changes" comment="Inicio do acervo de filmes.&#10;Diagrama de classes e divisão de pastas." />
+    <list default="true" id="f96ebda1-f97b-4be5-ae0a-41f0d84c72d3" name="Changes" comment="Inicio do acervo de filmes.&#10;Diagrama de classes e divisão de pastas.">
+      <change afterPath="$PROJECT_DIR$/Cardapio/Anotacoes/Anotacoes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cardapio/src/Modelo/Restaurante.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Yagos/Desktop/Estudos/projetos/MidiaRepublica/Anotacoes/ProjetoFilmes-main",
+    "last_opened_file_path": "C:/Users/Yagos/Desktop/Estudos/Alura/php/desafio",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -43,7 +47,9 @@
       <workItem from="1672259810378" duration="103000" />
       <workItem from="1672259916047" duration="749000" />
       <workItem from="1672260673184" duration="983000" />
-      <workItem from="1672356082549" duration="2006000" />
+      <workItem from="1672356082549" duration="2097000" />
+      <workItem from="1672956444198" duration="1411000" />
+      <workItem from="1673102852283" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="att">
       <created>1672260027122</created>
@@ -59,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672360318179</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Inicio do acervo de filmes.&#10;Diagrama de classes e divisão de pastas.">
+      <created>1672360554737</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672360554737</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,0 +1,11 @@
+Cardapio com crud de pratos
+
+    Restaurante
+        Nome
+        Endereço
+        Nota
+
+        Grupo de pratos
+            Prato
+                Ingredientes
+            Valor
