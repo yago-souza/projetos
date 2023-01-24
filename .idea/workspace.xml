@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f96ebda1-f97b-4be5-ae0a-41f0d84c72d3" name="Changes" comment="Inicio do acervo de filmes.&#10;Diagrama de classes e divisão de pastas.">
-      <change afterPath="$PROJECT_DIR$/Cardapio/Anotacoes/Anotacoes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cardapio/src/Modelo/Restaurante.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MidiaRepublica/src/Modelo/Midia/Filme.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MidiaRepublica/src/Modelo/Midia/Obra.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidiaRepublica/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MidiaRepublica/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidiaRepublica/src/Modelo/Filme.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/sugestor-de-filmes/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
@@ -20,6 +24,25 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/composer" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/stichoza/google-translate-php" />
+    </include_path>
   </component>
   <component name="ProjectId" id="2IBe1he0biztkoIxhmyVmSE4RsL" />
   <component name="ProjectViewState">
@@ -31,10 +54,26 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Yagos/Desktop/Estudos/Alura/php/desafio",
+    "last_opened_file_path": "C:/Users/Yagos/Desktop/Estudos/projetos",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MidiaRepublica/index.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 8.1" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,6 +89,7 @@
       <workItem from="1672356082549" duration="2097000" />
       <workItem from="1672956444198" duration="1411000" />
       <workItem from="1673102852283" duration="37000" />
+      <workItem from="1674506532174" duration="2582000" />
     </task>
     <task id="LOCAL-00001" summary="att">
       <created>1672260027122</created>

@@ -1,19 +1,18 @@
 <?php
 
-require_once './src/Modelo/Filme.php';
+require_once './src/Modelo/Midia/Obra.php';
 
-$avatar = new Filme(
-    'Avatar',
-    'Yago',
-    'Vitoria',
-    'Maria e Ana',
-    'teste',
-    'teste',
-    5,
-    100,
-    'teste' );
+$teste = new Obra('Avatar',
+                        ['Yago'],
+                        ['Ação'],
+                        14,
+                        '26/09/2000',
+                        ['Yago', 'isabele'],
+                        [10, 7],
+                        ['Oscar']);
 
-
+var_dump($teste);
 
 
-echo $avatar->getTitulo();
+
+

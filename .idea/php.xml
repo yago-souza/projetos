@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/composer" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/stichoza/google-translate-php" />
+    </include_path>
+  </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
 </project>
