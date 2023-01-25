@@ -1,0 +1,22 @@
+O que é classe e objeto
+Podemos ter atributos e métodos
+
+pubf no php storm cria uma função publica
+
+##########################################
+if($condição) {
+        #Trata o erro#
+        return;
+}
+Da forma a cima não é necessário o else, pois tudo o que for executado a baixo
+siginifica que passou pelo if
+Para saber mais: Early Return
+https://cursos.alura.com.br/course/php-oo-classes-metodos-atributos/task/67347
+##########################################
+Pliares da Orientação ao objeto
+1.Abstração
+2.Encapsulamento
+
+##########################################
+
+Sempre que new conta for executado o __cosnstruct é executado

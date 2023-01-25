@@ -1,26 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f96ebda1-f97b-4be5-ae0a-41f0d84c72d3" name="Changes" comment="Inicio do acervo de filmes.&#10;Diagrama de classes e divisão de pastas.">
-      <change afterPath="$PROJECT_DIR$/MidiaRepublica/src/Modelo/Midia/Filme.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MidiaRepublica/src/Modelo/Midia/Obra.php" afterDir="false" />
+    <list default="true" id="f96ebda1-f97b-4be5-ae0a-41f0d84c72d3" name="Changes" comment="Classe Obra">
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidiaRepublica/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MidiaRepublica/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MidiaRepublica/src/Modelo/Filme.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true">
     <pharConfigPath>$PROJECT_DIR$/sugestor-de-filmes/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,7 +49,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Yagos/Desktop/Estudos/projetos",
+    "last_opened_file_path": "C:/Users/Yagos/Desktop/Estudos/spaal",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -90,6 +85,8 @@
       <workItem from="1672956444198" duration="1411000" />
       <workItem from="1673102852283" duration="37000" />
       <workItem from="1674506532174" duration="2582000" />
+      <workItem from="1674522030319" duration="42000" />
+      <workItem from="1674596599512" duration="571000" />
     </task>
     <task id="LOCAL-00001" summary="att">
       <created>1672260027122</created>
@@ -112,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672360554737</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Classe Obra">
+      <created>1674522063523</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674522063523</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +163,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="att" />
     <MESSAGE value="Inicio do acervo de filmes.&#10;Diagrama de classes e divisão de pastas." />
-    <option name="LAST_COMMIT_MESSAGE" value="Inicio do acervo de filmes.&#10;Diagrama de classes e divisão de pastas." />
+    <MESSAGE value="Classe Obra" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classe Obra" />
   </component>
 </project>

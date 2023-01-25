@@ -19,5 +19,7 @@
       <path value="$PROJECT_DIR$/sugestor-de-filmes/vendor/stichoza/google-translate-php" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
 </project>
