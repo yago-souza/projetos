@@ -48,7 +48,7 @@ class UriResolver
 
         // an anchor
         if ('#' === $uri[0]) {
-            return UriResolver . phpself::cleanupAnchor($baseUri);
+            return self::cleanupAnchor($baseUri).$uri;
         }
 
         $baseUriCleaned = self::cleanupUri($baseUri);
@@ -59,7 +59,7 @@ class UriResolver
 
         // absolute URL with relative schema
         if (str_starts_with($uri, '//')) {
-            return UriResolver . phppreg_replace('#^([^/]*)//.*$#', '$1', $baseUriCleaned);
+            return preg_replace('#^([^/]*)//.*$#', '$1', $baseUriCleaned).$uri;
         }
 
         $baseUriCleaned = preg_replace('#^(.*?//[^/]*)(?:\/.*)?$#', '$1', $baseUriCleaned);
@@ -71,7 +71,7 @@ class UriResolver
 
         // relative path
         $path = parse_url(substr($baseUri, \strlen($baseUriCleaned)), \PHP_URL_PATH);
-        $path = self::canonicalizePath(substr($path, 0, strrpos($path, '/')) . 'UriResolver.php/' .$uri);
+        $path = self::canonicalizePath(substr($path, 0, strrpos($path, '/')).'/'.$uri);
 
         return $baseUriCleaned.('' === $path || '/' !== $path[0] ? '/' : '').$path;
     }

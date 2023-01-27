@@ -20,3 +20,45 @@ Pliares da Orientação ao objeto
 ##########################################
 
 Sempre que new conta for executado o __cosnstruct é executado
+
+#######################################
+Cada método deve fazer apenas uma coisa
+
+Membros estáticos. São membros da classe em si, e não de cada instância (objeto).
+
+Método destrutor para fechar conexão com o banco de dados por exemplo
+
+{
+"Title":"Eternal Sunshine of the Spotless Mind",
+"Year":"2004",
+"Rated":"R",
+"Released":"19 Mar 2004",
+"Runtime":"108 min",
+"Genre":"Drama, Romance, Sci-Fi",
+"Director":"Michel Gondry",
+"Writer":"Charlie Kaufman, Michel Gondry, Pierre Bismuth",
+"Actors":"Jim Carrey, Kate Winslet, Tom Wilkinson",
+"Plot":"Much to his surprise, timid Joel Barish is shocked to discover that the love of his life, sparky Clementine, has had him erased from her memory.
+ To pay her back in the same coin, poor Joel summons up the courage to undergo a painless but intricate medical procedure to do the same, utterly unaware that darkness is an essential
+  part of the light. Now, as hurt and angry Joel's ugly recollections of Clementine gradually fade away, giving way to a soulless black void, suddenly, he begins having second thoughts,
+   toying with the idea of stopping the irreversible process. In the end, is ignorance really bliss?",
+"Language":"English",
+"Country":"United States",
+"Awards":"Won 1 Oscar. 73 wins & 111 nominations total",
+"Poster":"https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg",
+"Ratings":[
+            {"Source":"Internet Movie Database","Value":"8.3/10"},
+            {"Source":"Rotten Tomatoes","Value":"92%"},
+            {"Source":"Metacritic","Value":"89/100"}
+          ],
+    "Metascore":"89",
+    "imdbRating":"8.3",
+    "imdbVotes":"1,012,991",
+    "imdbID":"tt0338013",
+    "Type":"movie",
+    "DVD":"28 Sep 2004",
+    "BoxOffice":"$34,400,301",
+    "Production":"N/A",
+    "Website":"N/A",
+    "Response":"True"}
+

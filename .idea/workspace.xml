@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f96ebda1-f97b-4be5-ae0a-41f0d84c72d3" name="Changes" comment="Classe Obra">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidiaRepublica/Anotacoes/Estudo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MidiaRepublica/Anotacoes/Estudo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MidiaRepublica/src/Modelo/Midia/Filme.php" beforeDir="false" afterPath="$PROJECT_DIR$/MidiaRepublica/src/Modelo/Midia/Filme.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/correio/calculadoraC.php" beforeDir="false" afterPath="$PROJECT_DIR$/correio/calculadoraC.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/correio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/correio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sugestor-de-filmes/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/sugestor-de-filmes/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sugestor-de-filmes/funcoes.php" beforeDir="false" afterPath="$PROJECT_DIR$/sugestor-de-filmes/funcoes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sugestor-de-filmes/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/sugestor-de-filmes/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sugestor-de-filmes/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/sugestor-de-filmes/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sugestor-de-filmes/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/sugestor-de-filmes/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sugestor-de-filmes/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/sugestor-de-filmes/vendor/composer/installed.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/css-selector/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/css-selector/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/css-selector/Parser/Tokenizer/TokenizerEscaping.php" beforeDir="false" afterPath="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/css-selector/Parser/Tokenizer/TokenizerEscaping.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/css-selector/XPath/XPathExpr.php" beforeDir="false" afterPath="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/css-selector/XPath/XPathExpr.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/dom-crawler/Field/FileFormField.php" beforeDir="false" afterPath="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/dom-crawler/Field/FileFormField.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/dom-crawler/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/dom-crawler/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/dom-crawler/UriResolver.php" beforeDir="false" afterPath="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/dom-crawler/UriResolver.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/dom-crawler/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/sugestor-de-filmes/vendor/symfony/dom-crawler/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +57,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="2IBe1he0biztkoIxhmyVmSE4RsL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,13 +67,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Yagos/Desktop/Estudos/spaal",
+    "last_opened_file_path": "C:/Users/Yagos/Desktop/Estudos/projetos/correio",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.teste.php">
     <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MidiaRepublica/index.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 8.1" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="teste.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/MidiaRepublica/teste.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
           <option name="interpreterName" value="PHP 8.1" />
@@ -65,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.teste.php" />
         <item itemvalue="PHP Script.index.php" />
       </list>
     </recent_temporary>
@@ -87,6 +114,9 @@
       <workItem from="1674506532174" duration="2582000" />
       <workItem from="1674522030319" duration="42000" />
       <workItem from="1674596599512" duration="571000" />
+      <workItem from="1674826562940" duration="5971000" />
+      <workItem from="1675374010000" duration="95000" />
+      <workItem from="1675374552682" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="att">
       <created>1672260027122</created>

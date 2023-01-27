@@ -18,7 +18,7 @@
     "require": {
         "php": ">=8.1",
         "symfony/polyfill-ctype": "~1.8",
-        "../../../../../spaal/vendor/symfony/polyfill-mbstring": "~1.0",
+        "symfony/polyfill-mbstring": "~1.0",
         "masterminds/html5": "^2.6"
     },
     "require-dev": {

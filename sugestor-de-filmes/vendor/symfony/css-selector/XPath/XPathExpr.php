@@ -88,7 +88,7 @@ class XPathExpr
      */
     public function join(string $combiner, self $expr): static
     {
-        $path = $this->__toString() . $combiner;
+        $path = $this->__toString().$combiner;
 
         if ('*/' !== $expr->path) {
             $path .= $expr->path;

@@ -2,9 +2,12 @@
 
 require_once 'vendor/autoload.php';
 
+require_once 'Filme.php';
+
 use GuzzleHttp\Client;
 use Stichoza\GoogleTranslate\GoogleTranslate;
 use Symfony\Component\DomCrawler\Crawler;
+
 
 function limpaTerminal() {
     popen('cls || clear','w');
@@ -14,7 +17,7 @@ function retornaFilme($url) {
 
     # Recebe o JSON da API
     $json = file_get_contents($url);
-
+    var_dump($json);
     $arrayFilme = json_decode($json, true);
 
     $resposta = $arrayFilme['Response'];
@@ -23,6 +26,13 @@ function retornaFilme($url) {
     if ($resposta == "False") {
         echo "Digite um filme válido ou deixe o campo em branco. \n\n";
     } else {
+        $filme = new Filme();
+
+        $filme->setTitulo($arrayFilme['Title'])
+            ->setLancamento($arrayFilme['Released']);
+
+
+
         $titulo = $arrayFilme['Title'];
         $ano = $arrayFilme['Year'];
         $lancamento = $arrayFilme['Released'];
@@ -36,6 +46,8 @@ function retornaFilme($url) {
         $valorIMDB = $arrayFilme['Ratings'][0]['Value'];
         $notaRT = $arrayFilme['Ratings'][1]['Source'];
         $valorRT = $arrayFilme['Ratings'][1]['Value'];
+
+
 
         $traduz = new GoogleTranslate('pt'); #tradus para portugues
         $traduz->setSource();
@@ -109,14 +121,12 @@ function buscaImagem($url)
 }
 
 
-$url = 'https://www.adorocinema.com/filmes/filme-178014/';
-
+$url = 'https://www.adorocinema.com/filmes/filme-1/';
 $arrayInfoFilme =  percorreFilme($url, 'div.meta-body-item');
 ## indice 0
 $sinopse = percorreFilme($url,'div.content-txt');
 $cartaz = buscaImagem($url);
 $titulo = percorreFilme($url, 'div.titlebar-title');
-#var_dump();
 $filme = [
     "tituloBr" => $titulo[0],
     "tituloOriginal" => $arrayInfoFilme[4],
@@ -125,4 +135,6 @@ $filme = [
 ];
 
 limpaTerminal();
-echo PHP_EOL . "Titulo" . PHP_EOL . $filme['tituloBr'] . PHP_EOL . $filme['tituloOriginal'] . PHP_EOL . $filme['sinopse'] . PHP_EOL . $filme['cartaz'];
+
+#var_dump($titulo);
+#echo PHP_EOL . "Titulo" . PHP_EOL . $filme['tituloBr'] . PHP_EOL . $filme['tituloOriginal'] . PHP_EOL . $filme['sinopse'] . PHP_EOL . $filme['cartaz'];

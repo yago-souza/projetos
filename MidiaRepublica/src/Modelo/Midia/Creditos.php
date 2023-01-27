@@ -3,7 +3,10 @@
 class Creditos
 {
 
-    public function __construct(string $nome, string $nascimento, int $id, )
+    private Pessoa $pessoa;
+
+    public function __construct(Pessoa $pessoa)
     {
+        $this->pessoa = $pessoa;
     }
 }

@@ -52,18 +52,43 @@
 
 
                             Filmes
-                                Titulo X
-                                lançamento
-                                atores{}
-                                diretores{}
-                                roteiristas{}
-                                trilha sonora{}
-                                genero{}
+                                Titulo: array
+                                lançamento: string
+                                ## um array com objetos dentro
+                                Ator: arrayPessoa[] Objetoessoa {
+                                                    Nome,
+                                                    nascimento,
+                                                    naturalidade,
+                                                    ocupação(ator, diretor, escritor),
+                                                    filmes,
+                                                }
+
+                                Diretor: arrayPessoa[]
+                                Escritor: arrayPessoa[]
+
+                                Produtora: objeto produtora
+
+                                trilha sonora: Pessoa
+                                genero array
                                 descrição{}
-                                nota{}
-                                personagens{}
-                                premiaçoes{}
-                                faixa etaria{}
+                                Avaliação objeto {
+                                    AVALIADOR (IMDB, RT, ETC)
+                                    NOTA
+                                }
+                                personagens objeto {
+                                    Personagem
+                                    Ator
+                                }
+                                premiaçoes objeto{
+
+                                    Premio objeto{
+                                        (Oscar, canes, etc)
+                                    Indicaçoes int
+                                    Vitorias string (Melhor filme, melhor ator, etc)
+                                    }
+
+                                }
+                                faixa etaria int
 
                             Series
                                 Titulo X
