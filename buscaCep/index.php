@@ -11,14 +11,14 @@ function buscaCep(){
 
         $cep = str_pad($i, '8', '0', STR_PAD_LEFT);
 
-        $url = "https://viacep.com.br/ws/$cep/json/";$url = "https://viacep.com.br/ws/$cep/json/";
+        $url = "https://viacep.com.br/ws/$cep/json/";
 
         $json = file_get_contents($url);
 
         $arrayCep = json_decode($json, true);
 
         if($arrayCep['erro'] = 'true') {
-            echo 'Cep inválido' . PHP_EOL;
+            echo $i . 'Cep inválido' . PHP_EOL;
             ##continue;
         } else {
             $endereco = new Endereco($arrayCep['cep'],
