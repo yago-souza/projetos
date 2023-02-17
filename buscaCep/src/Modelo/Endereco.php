@@ -3,38 +3,35 @@
 class Endereco
 {
 
-    protected string $cep;
-    protected string $logadouro;
-    protected string $complemento;
-    protected string $bairro;
-    protected string $localidade;
-    protected string $ibge;
-    protected string $uf;
-    protected string $gia;
-    protected string $ddd;
-    protected string $siafi;
+    protected $cep;
+    protected $end;
+    protected $bairro;
+    protected $cidade;
+    protected $uf;
+    protected $complemento2;
 
     public function __construct(string $cep,
-                                string $logadouro,
-                                string $complemento,
+                                string $end,
+                                string $complemento2,
                                 string $bairro,
-                                string $localidade,
-                                string $ibge,
-                                string $uf,
-                                string $gia,
-                                string $ddd,
-                                string $siafi)
+                                string $cidade,
+                                string $uf)
     {
         $this->cep = $cep;
-        $this->logadouro = $logadouro;
-        $this->complemento = $complemento;
+        $this->end = $end;
+        $this->complemento2 = $complemento2;
         $this->bairro = $bairro;
-        $this->localidade = $localidade;
-        $this->ibge = $ibge;
+        $this->cidade = $cidade;
         $this->uf = $uf;
-        $this->gia = $gia;
-        $this->ddd = $ddd;
-        $this->siafi = $siafi;
+
+    }
+
+    /**
+     * @return string
+     */
+    public function getComplemento2(): string
+    {
+        return $this->complemento2;
     }
 
     /**
@@ -48,12 +45,12 @@ class Endereco
     }
 
     /**
-     * @param string $logadouro
+     * @param string $end
      * @return Endereco
      */
-    public function setLogadouro(string $logadouro): Endereco
+    public function setEnd(string $end): Endereco
     {
-        $this->logadouro = $logadouro;
+        $this->end = $end;
         return $this;
     }
 
@@ -78,12 +75,12 @@ class Endereco
     }
 
     /**
-     * @param string $localidade
+     * @param string $cidade
      * @return Endereco
      */
-    public function setLocalidade(string $localidade): Endereco
+    public function setCidade(string $cidade): Endereco
     {
-        $this->localidade = $localidade;
+        $this->cidade = $cidade;
         return $this;
     }
 
@@ -148,9 +145,9 @@ class Endereco
     /**
      * @return string
      */
-    public function getLogadouro(): string
+    public function getEnd(): string
     {
-        return $this->logadouro;
+        return $this->end;
     }
 
     /**
@@ -172,9 +169,9 @@ class Endereco
     /**
      * @return string
      */
-    public function getLocalidade(): string
+    public function getCidade(): string
     {
-        return $this->localidade;
+        return $this->cidade;
     }
 
     /**
