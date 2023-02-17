@@ -31,8 +31,6 @@ function retornaFilme($url) {
         $filme->setTitulo($arrayFilme['Title'])
             ->setLancamento($arrayFilme['Released']);
 
-
-
         $titulo = $arrayFilme['Title'];
         $ano = $arrayFilme['Year'];
         $lancamento = $arrayFilme['Released'];
@@ -46,8 +44,6 @@ function retornaFilme($url) {
         $valorIMDB = $arrayFilme['Ratings'][0]['Value'];
         $notaRT = $arrayFilme['Ratings'][1]['Source'];
         $valorRT = $arrayFilme['Ratings'][1]['Value'];
-
-
 
         $traduz = new GoogleTranslate('pt'); #tradus para portugues
         $traduz->setSource();
