@@ -35,7 +35,6 @@ function buscaCep($conexao){
                     throw new \Exception("Objeto vazio");
                 } else {
 
-
                 $endereco = new Endereco(
                     $result->return->cep,
                         $result->return->end,
