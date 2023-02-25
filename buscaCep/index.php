@@ -16,7 +16,8 @@ $sql = "SELECT MAX(ID)
                FROM S_CEP";
 $retornoSql = consultaSQL($conexao, $sql);
 $ultimoID = $retornoSql[0];
-while (set_time_limit(1800)){
+
+while (set_time_limit(1500)){
     for ($i = $ultimoID; $i<=722053; $i++) {
         ##Consulta CEP na view SPL_S_CEP pelo ID
             $sql = "SELECT A.*,
@@ -35,8 +36,8 @@ while (set_time_limit(1800)){
 
         ## Se o cep existir pula para o próximo cep
             if ($retornoS_CEP != false) {
-                echo "<h2>O CEP ". $retornoSql['CEP'] . " já existe na tabela S_CEP.</h2>";
-                echo "<p>Endereço antigo (SPL_S_CEP): " .
+                /*#echo "<h2>O CEP ". $retornoSql['CEP'] . " já existe na tabela S_CEP.</h2>";
+                #echo "<p>Endereço antigo (SPL_S_CEP): " .
                     $retornoSql['ID'] . " " .
                     $retornoSql['CEP_STREET'] . ", " .
                     $retornoSql['CEP_BAIRRO'] . ", " .
@@ -45,14 +46,14 @@ while (set_time_limit(1800)){
                     $retornoSql['CEP'] . ", " .
                     $retornoSql['CEP_ROTA'] . "</p>";
 
-                echo "<p>Endereço novo (S_CEP): " . " " .
+                #echo "<p>Endereço novo (S_CEP): " . " " .
                     $retornoS_CEP['CEP_STREET'] . ", " .
                     $retornoS_CEP['CEP_BAIRRO'] . ", " .
                     $retornoS_CEP['CEP_CITY'] . ", " .
                     $retornoS_CEP['CEP_STATE'] . ", " .
                     $retornoS_CEP['CEP'] . " " .
                     $retornoS_CEP['CEP_ROTA'] . " " .
-                    $retornoS_CEP['OBSERVACAO'] . "</p>";
+                    $retornoS_CEP['OBSERVACAO'] . "</p>";*/
             } else {
                 #echo "<p>O CEP ". $retornoSql['CEP'] . " não existe na tabela S_CEP.</p>";
                     ## consulta o número do CEP no Web Service
@@ -88,18 +89,15 @@ while (set_time_limit(1800)){
                                                       '$i'
                                                     )";
                                 $insertSql = consultaSQL($conexao, $sql);
-                            #echo "Retorno do Correio: ". $cepS . ', ' . $endS . ', '. $bairroS . ', ' . $cidadeS . ', ' . $ufS . ', ' . $complemento2S;
+                            echo "Retorno do Correio: ". $cepS . ', ' . $endS . ', '. $bairroS . ', ' . $cidadeS . ', ' . $ufS . ', ' . $complemento2S;
                         }
                     } catch (\Exception $exception) {
                         echo $exception->getMessage() . PHP_EOL;
                     }
             }
-            echo "<p>$i $cepSql</p>";
-        unset($endereco, $cepS, $endS, $complemento2S, $bairroS, $cidadeS, $ufS, $result, $cepSql, $retornoS_CEP, $retornoSql, );
+            #echo "<p>$i $cepSql</p>";
+        #unset($endereco, $cepS, $endS, $complemento2S, $bairroS, $cidadeS, $ufS, $result, $cepSql, $retornoS_CEP, $retornoSql, );
     }
 }
-
-
-
 
 
