@@ -1,9 +1,14 @@
 <?php
 
 require_once './src/Modelo/Endereco.php';
-require_once './conexao.php';
+#require_once './conexao.php';
 
-echo "Teste";
+for ($i = 1000000; $i<=99999999; $i++) {
+    $cep = str_pad($i,'8','0', STR_PAD_LEFT);
+
+    echo $cep . PHP_EOL;
+    sleep(1);
+}
 /*
 
 

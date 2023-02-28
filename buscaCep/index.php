@@ -18,6 +18,7 @@ $retornoSql = consultaSQL($conexao, $sql);
 $ultimoID = $retornoSql[0];
 
 while (set_time_limit(1500)){
+    ##01000-000
     for ($i = $ultimoID; $i<=722053; $i++) {
         ##Consulta CEP na view SPL_S_CEP pelo ID
             $sql = "SELECT A.*,
