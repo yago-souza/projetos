@@ -17,7 +17,7 @@ function retornaFilme($url) {
 
     # Recebe o JSON da API
     $json = file_get_contents($url);
-    var_dump($json);
+    #var_dump($json);
     $arrayFilme = json_decode($json, true);
 
     $resposta = $arrayFilme['Response'];
